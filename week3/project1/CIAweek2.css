@@ -1,0 +1,48 @@
+h1 {
+    color: #006400
+    
+}
+
+h1 { 
+    text-align: center 
+}
+
+h2 { 
+    text-align: center 
+}
+
+div.a {
+    text-transform: uppercase;
+  }
+
+ #Georgia {
+    font-family: Georgia;
+ } 
+
+ p {
+    font-size: 25px;
+  }
+
+ ul {
+    font-size: 25px;
+  }
+
+a:link {
+    text-decoration: none;
+  }
+
+  img 
+ {
+    float: left;
+
+ }
+
+ img {
+    margin-top: 5px;
+    margin-bottom: px;
+    margin-right: 10px;
+    margin-left: 5px;
+  } 
+  a:hover {
+    text-decoration: underline;
+    }
