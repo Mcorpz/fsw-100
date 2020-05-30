@@ -1,0 +1,102 @@
+.lightpinkbox {
+    background-color: #F5C6D6;
+    height: 100px;
+    width: auto;
+    padding: 10px;
+    border-style: solid;
+    border-width: 5px; 
+    color: white;
+  }
+.pinkbox {
+    background-color: #EE2E84;
+    position: absolute;
+    height: 100px;
+    width: 25%;
+    border-style: solid;
+    border-width: 5px; 
+    color: white;  
+    box-sizing: border-box; 25%;     
+}
+.pinkbox1 {
+   background-color: #EE2E84;
+   position: absolute;
+   left: 25%;
+   height: 100px;
+   width: 25%;
+   border-style: solid;
+   border-width: 5px; 
+   color: white;  
+   box-sizing: border-box; 25%;     
+}
+
+.pinkbox2 {
+  background-color: #EE2E84;
+  position: relative; 
+  position: absolute;
+  left: 50%;
+  height: 100px;
+  width: 25%;
+  border-style: solid;
+  border-width: 5px; 
+  color: white;  
+  box-sizing: border-box; 25%;   
+}
+
+.pinkbox3 {
+  background-color: #EE2E84;
+  position: relative; 
+  left: 75%;
+  height: 100px;
+  width: 25%;
+  border-style: solid;
+  border-width: 5px; 
+  color: white;  
+  box-sizing: border-box; 25%;    
+}
+
+.teal {
+    background-color: #85CFD8;
+    position: absolute;
+    height: 100px;
+    width: 50%;
+    border-style: solid;
+    border-width: 5px; 
+    color: white;  
+    box-sizing: border-box; 25%; 
+  }
+
+  .teal1 {
+    background-color: #85CFD8;
+    position: relative;
+    left: 50%;
+    height: 100px;
+    width: 50%;
+    border-style: solid;
+    border-width: 5px; 
+    color: white;
+    box-sizing: border-box; 25%; 
+  }
+  .green {
+    background-color: #8DC63F;
+    position: relative;
+    position: absolute;
+    height: 100px;
+    width: 75%;
+    border-style: solid;
+    border-width: 5px; 
+    color: white;
+    box-sizing: border-box; 25%;  
+  }
+  .orange {
+    background-color: #E76E34;
+    position: relative;
+    height: 100px;
+    left: 75%;
+    width: 25%;
+    border-style: solid;
+    border-width: 5px; 
+    color: white;
+    box-sizing: border-box; 25%;  
+    
+  }
+  
