@@ -1,0 +1,25 @@
+table, th, td {
+    border: 1px solid black;
+  }
+
+nav,p,li {
+    font-family: Lobster;
+  }
+  p {
+    max-width: 300px;
+    padding-left: 50px;
+    color: blueviolet;
+  }
+
+  nav {
+      color: coral;
+  }
+
+  ol{
+      color: darkturquoise;
+  }
+
+  h2 {
+      color: salmon;
+  }
+  
