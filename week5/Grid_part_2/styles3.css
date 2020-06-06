@@ -1,0 +1,40 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    grid-column-gap: 1em;
+    grid-row-gap: 1em;
+
+}
+
+
+    .box6 {
+    grid-column: 
+    grid-row: 1/4;
+    background-color: #4682B4;
+    height: 100px;
+    }
+    
+    .box7 {
+    grid-column: 
+    grid-row: 
+    background-color: #D8BFD8;
+    
+  }
+    .box8 {
+    grid-column:
+    grid-row: 
+    background-color: #708090;
+    height: 100px;
+  }
+    .box9 {
+    grid-column:
+    background-color: #C71585;
+    height: 100px;
+  }
+    .box10 {
+    grid-column:
+    background-color: #40E0D0;
+    height: 100px;
+  }
+  
