@@ -1,0 +1,41 @@
+a {
+    color: whitesmoke;
+       
+}
+a:hover {
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+header {
+    font-family: Metal Mania;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
+
+  h2 {
+      font-family: Metal Mania;
+  }
+
+  nav {
+    grid-column: 1 / -1;
+    grid-row: 2 / 3;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    /* height: 400px; */
+    background-color: #0e02b3;
+    color: #ffe659;    
+}
+
+footer {
+    font-family: Metal Mania;
+    text-align: center;
+    color: crimson;
+}
